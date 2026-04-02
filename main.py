@@ -18,12 +18,12 @@ init(autoreset=True)
 
 NO_BAN_KICK_ID = []
 
-PUB         = "||@everyone||  **# RAID BY VOID-NUKE**  :  discord.gg/W6z9SQgvqc  <https://github.com/void4real/Void-Nuke>"
-PUB_SHORT   = "discord.gg/W6z9SQgvqc | github.com/void4real"
-DISCORD_URL = "https://discord.gg/W6z9SQgvqc"
+PUB         = "||@everyone||  **# OMG SHES FIGHTING**  :  discord.gg/fazo"
+PUB_SHORT   = "discord.gg/fazo"
+DISCORD_URL = "https://discord.gg/fazo"
 GITHUB_URL  = "https://github.com/void4real/Void-Nuke"
-RAID_NAME   = "raid-by-void"
-TOOL_NAME   = "VOID-NUKE"
+RAID_NAME   = "bowtips 2.0"
+TOOL_NAME   = "bowtips 2.0"
 
 AUTO_RAID_CONFIG = {
     "channel_type"   : "text",
@@ -46,21 +46,21 @@ EMBED_CONFIG = {
     "color"      : 0xFF0000,
     "message"    : f"||@everyone||  {PUB}",
     "image"      : "https://media.discordapp.net/attachments/1471977538648674478/1477637266791727155/c51ca65be8fa86b4b8f29a7d15dce335_1.webp",
-    "footer"     : "discord.gg/W6z9SQgvqc  |  github.com/void4real",
+    "footer"     : "discord.gg/fazo  |  github.com/void4real",
     "fields"     : [
-        {"name": "\U0001f517 __Discord__", "value": "**discord.gg/W6z9SQgvqc**", "inline": True},
+        {"name": "\U0001f517 __Discord__", "value": "**discord.gg/fazo**", "inline": True},
         {"name": "\U0001f431 __Github__",  "value": "**github.com/void4real**",   "inline": True},
         {"name": "\u26a1 __Tool__",        "value": "**VOID-NUKE v1.0.0**",       "inline": True},
     ],
 }
 
-WEBHOOK_CONFIG = {"default_name": "VOID-NUKE"}
+WEBHOOK_CONFIG = {"default_name": "kapri runs you"}
 SERVER_CONFIG  = {
-    "new_name"       : "RAIDED BY VOID-NUKE",
+    "new_name"       : "join /fazo",
     "new_icon"       : "",
-    "new_description": "discord.gg/W6z9SQgvqc",
+    "new_description": "discord.gg/fazo",
 }
-BOT_PRESENCE = {"type": "playing", "text": "discord.gg/W6z9SQgvqc"}
+BOT_PRESENCE = {"type": "playing", "text": "discord.gg/fazo"}
 
 # ── palette ────────────────────────────────────────────
 RS  = "\033[0m";  B   = "\033[1m"
