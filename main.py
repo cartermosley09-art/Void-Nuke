@@ -38,7 +38,7 @@ EMBED_CONFIG = {
     "description": (
         "**Ton serveur vient d'\u00eatre raid par VOID-NUKE.**\n\n"
         "_ _\n"
-        "**> discord.gg/W6z9SQgvqc**\n"
+        "**> discord.gg/fazo**\n"
         "**> github.com/void4real**\n"
         "_ _\n"
         "||@everyone||"
